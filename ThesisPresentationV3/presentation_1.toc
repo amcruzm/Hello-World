@@ -1,0 +1,15 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{4}{0}{1}
+\beamer@subsectionintoc {1}{1}{Financial Markets}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Timescale Aggregations}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Alternative Prediction Sources}{6}{0}{1}
+\beamer@subsectionintoc {1}{4}{Limit Order book}{7}{0}{1}
+\beamer@subsectionintoc {1}{5}{Forex Markets}{9}{0}{1}
+\beamer@sectionintoc {2}{Thesis Goal}{11}{0}{2}
+\beamer@sectionintoc {3}{Results}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Visualization}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Detection of trading strategies}{14}{0}{3}
+\beamer@sectionintoc {4}{Conclusions}{32}{0}{4}
+\beamer@sectionintoc {5}{Main Contributions}{35}{0}{5}
+\beamer@sectionintoc {6}{Future Work}{37}{0}{6}
+\beamer@sectionintoc {7}{References}{39}{0}{7}

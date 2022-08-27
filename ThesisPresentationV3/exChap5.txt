@@ -1,0 +1,44 @@
+\subsection{Results}
+
+The results of the parameter search for the proposed approach are shown in Figures I and II.
+\\
+\\
+\begin{figure}[h]
+	\centering
+		\includegraphics{C:/Users/AMCM/Desktop/provisional/Materias/Seminario/TesisM/chart1.pdf}
+	\caption{Predictor's accuracy using different 1 minute pattern sizes.}
+	\label{fig:chart1}
+\end{figure}
+
+
+\begin{figure}[h]
+	\centering
+		\includegraphics{C:/Users/AMCM/Desktop/provisional/Materias/Seminario/TesisM/chart2.pdf}
+	\caption{Predictor's accuracy using different 10 minutes pattern sizes.}
+	\label{fig:chart2}
+\end{figure}
+
+
+In some cases, during experimentation, no frequent patterns were found in accordance with the defined thresholds for pattern frequency and probability of being associated with a specific trend. Those patterns selected as frequent should, simultaneously, be associated with a trend with a probability higher than 0.55 and should appear more than five times in the corresponding subset. In those cases in which no frequent patterns were found, the accuracy was infinity, hereby, those accuracy values were discarded. For that reason, some bars are missing in Figures I and II to avoid misinterpretation. 
+\\
+\\
+The average number of frequent patterns by subset and pattern size was 70. It was found that frequent patterns lost its ability to predict trend over time. Supported on this result, the future development of an adaptive method to overcome this difficulty is suggested.
+\\
+\\
+The best performance for this method was provided by 1 minute frequent patterns, using as preprocessing method the application of the Haar Wavelet Transform twice, using those coefficients corresponding to the difference between consecutive values in the volumes matrix. In this case, pattern size 5 (2x20 items tile) were used. The accuracy achieved was 0.91 in the best case.
+\\
+\\
+For 10 minutes frequent patterns, best performance was achieved using Haar wavelet transform once with the coefficients corresponding to the average between consecutive values in the volumes matrix and, pattern size 6 (2x40 items tile). The accuracy accomplished in this way was 0.8333 in the best case.
+\\
+\\
+Overall, the pattern size which provided the highest average accuracy was pattern size 3 (1x40 items tile) for 1 minute patterns and pattern size 6 (2x40 items tile) for 10 minutes patterns. The preprocessing method which lead to the best average accuracy was: for 1 minute patterns, three iterations of wavelet transform using difference coefficients, in this scenario the accuracy was 0.632175. For 10 minutes frequent patterns, the best performance was obtained by using Haar wavelet transform once, selecting those coefficients corresponding to the average. This preprocessing method produced an accuracy of 0.61168.
+\\
+\\
+Figures I and II compare best performance by pattern size among the different preprocessing choices: heat map, Haar wavelet transform differences and average coefficients until 4 iterations for Figure I and until 2 iterations for Figure II, every color represents a different pattern size.
+
+\subsection{Discussion}
+
+Clearly, with the optimal parametrization, the performance is better compared with a random guess (acc. 0.91 vs. 0.5). However the performance does not keep that level from one subset to another, suggesting the existence of seasonal patterns. This phenomenon is described by Jiang et al. in \cite{{Jian11}}.
+\\
+\\
+In order to assure this method's scalability, testing in larger datasets is required. Figures \ref{fig:chart1} and \ref{fig:chart2} show the result of applying this methodology to obtain a strong classifier gathering several weak classifiers using a simple voting system.

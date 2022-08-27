@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4433"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="chart1.svg">
+  <defs
+     id="defs4435">
+    <clipPath
+       id="highcharts-93">
+      <rect
+         x="1"
+         y="1"
+         width="523"
+         height="277"
+         id="rect9" />
+    </clipPath>
+    <clipPath
+       id="clipPath4284">
+      <rect
+         x="1"
+         y="1"
+         width="523"
+         height="277"
+         id="rect4286" />
+    </clipPath>
+    <clipPath
+       id="clipPath4288">
+      <rect
+         x="1"
+         y="1"
+         width="523"
+         height="277"
+         id="rect4290" />
+    </clipPath>
+    <clipPath
+       id="clipPath4292">
+      <rect
+         x="1"
+         y="1"
+         width="523"
+         height="277"
+         id="rect4294" />
+    </clipPath>
+    <clipPath
+       id="clipPath4296">
+      <rect
+         x="1"
+         y="1"
+         width="523"
+         height="277"
+         id="rect4298" />
+    </clipPath>
+    <clipPath
+       id="clipPath4300">
+      <rect
+         x="1"
+         y="1"
+         width="523"
+         height="277"
+         id="rect4302" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.30307536"
+     inkscape:cx="-289.96592"
+     inkscape:cy="423.20024"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4438">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#ffffff"
+       x="103.55885"
+       y="604.05487"
+       width="525"
+       height="279"
+       id="rect11" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#ffffff;fill-opacity:0.5"
+       d="m 103.55885,883.55487 524.99999,0 0,-70 -524.99999,0"
+       id="path13" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#ffffff;fill-opacity:0.5"
+       d="m 103.55885,744.55487 524.99999,0 0,-70 -524.99999,0"
+       id="path15" />
+    <g
+       transform="translate(38.558847,568.05487)"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif"
+       class="highcharts-grid"
+       id="g19">
+      <path
+         style="opacity:1;fill:none;stroke:#c0c0c0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 65,35.5 525,0"
+         id="path21" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0c0c0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 65,106.5 525,0"
+         id="path23" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0c0c0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 65,176.5 525,0"
+         id="path25" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0c0c0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 65,245.5 525,0"
+         id="path27" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0c0c0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 65,315.5 525,0"
+         id="path29" />
+    </g>
+    <rect
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:none;stroke:#026fc1;stroke-width:2"
+       x="103.55885"
+       y="604.05487"
+       width="525"
+       height="279"
+       strokeWidth="-2"
+       id="rect31" />
+    <g
+       transform="translate(38.558847,568.05487)"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif"
+       class="highcharts-axis"
+       id="g33">
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 181.5,315 0,10"
+         id="path35" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 239.5,315 0,10"
+         id="path37" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 297.5,315 0,10"
+         id="path39" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 356.5,315 0,10"
+         id="path41" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 414.5,315 0,10"
+         id="path43" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 472.5,315 0,10"
+         id="path45" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 531.5,315 0,10"
+         id="path47" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 590.5,315 0,10"
+         id="path49" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 122.5,315 0,10"
+         id="path51" />
+      <path
+         style="opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 64.5,315 0,10"
+         id="path53" />
+      <path
+         style="visibility:visible;fill:none;stroke:#c0d0e0;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 65,315.5 525,0"
+         visibility="visible"
+         id="path55" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+       id="path59"
+       d="m 103.55885,603.55487 -10.000003,0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+       id="path61"
+       d="m 103.55885,674.55487 -10.000003,0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+       id="path63"
+       d="m 103.55885,744.55487 -10.000003,0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+       id="path65"
+       d="m 103.55885,813.55487 -10.000003,0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;opacity:1;fill:none;stroke:#c0d0e0;stroke-width:1"
+       id="path67"
+       d="m 103.55885,883.55487 -10.000003,0" />
+    <text
+       id="text69"
+       y="59.090096"
+       visibility="visible"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;visibility:visible;fill:#000000"
+       class=" highcharts-yaxis-title"
+       transform="matrix(0,-1,1,0,0,0)"
+       x="-743.55487">Accuracy</text>
+    <g
+       transform="translate(38.558847,568.05487)"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif"
+       class="highcharts-series-group"
+       id="g71">
+      <g
+         style="visibility:visible"
+         class="highcharts-series"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="url(#highcharts-93)"
+         id="g73">
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="11.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect75" />
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="70.5"
+           y="143.5"
+           width="5"
+           height="136"
+           rx="0"
+           ry="0"
+           id="rect77" />
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="128.5"
+           y="141.5"
+           width="5"
+           height="138"
+           rx="0"
+           ry="0"
+           id="rect79" />
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="186.5"
+           y="123.5"
+           width="5"
+           height="156"
+           rx="0"
+           ry="0"
+           id="rect81" />
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="245.5"
+           y="155.5"
+           width="5"
+           height="124"
+           rx="0"
+           ry="0"
+           id="rect83" />
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="303.5"
+           y="144.5"
+           width="5"
+           height="135"
+           rx="0"
+           ry="0"
+           id="rect85" />
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="361.5"
+           y="136.5"
+           width="5"
+           height="143"
+           rx="0"
+           ry="0"
+           id="rect87" />
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="420.5"
+           y="141.5"
+           width="5"
+           height="138"
+           rx="0"
+           ry="0"
+           id="rect89" />
+        <rect
+           style="fill:#50b432;stroke:#ffffff;stroke-width:1"
+           x="478.5"
+           y="134.5"
+           width="5"
+           height="145"
+           rx="0"
+           ry="0"
+           id="rect91" />
+      </g>
+      <g
+         style="visibility:visible"
+         class="highcharts-markers"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="none"
+         id="g93" />
+      <g
+         style="visibility:visible"
+         class="highcharts-series"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="url(#highcharts-93)"
+         id="g95">
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="17.5"
+           y="130.5"
+           width="5"
+           height="149"
+           rx="0"
+           ry="0"
+           id="rect97" />
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="75.5"
+           y="143.5"
+           width="5"
+           height="136"
+           rx="0"
+           ry="0"
+           id="rect99" />
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="134.5"
+           y="133.5"
+           width="5"
+           height="146"
+           rx="0"
+           ry="0"
+           id="rect101" />
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="192.5"
+           y="33.5"
+           width="5"
+           height="246"
+           rx="0"
+           ry="0"
+           id="rect103" />
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="250.5"
+           y="140.5"
+           width="5"
+           height="139"
+           rx="0"
+           ry="0"
+           id="rect105" />
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="309.5"
+           y="143.5"
+           width="5"
+           height="136"
+           rx="0"
+           ry="0"
+           id="rect107" />
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="367.5"
+           y="137.5"
+           width="5"
+           height="142"
+           rx="0"
+           ry="0"
+           id="rect109" />
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="425.5"
+           y="108.5"
+           width="5"
+           height="171"
+           rx="0"
+           ry="0"
+           id="rect111" />
+        <rect
+           style="fill:#ed561b;stroke:#ffffff;stroke-width:1"
+           x="484.5"
+           y="147.5"
+           width="5"
+           height="132"
+           rx="0"
+           ry="0"
+           id="rect113" />
+      </g>
+      <g
+         style="visibility:visible"
+         class="highcharts-markers"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="none"
+         id="g115" />
+      <g
+         style="visibility:visible"
+         class="highcharts-series"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="url(#highcharts-93)"
+         id="g117">
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="23.5"
+           y="125.5"
+           width="5"
+           height="154"
+           rx="0"
+           ry="0"
+           id="rect119" />
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="81.5"
+           y="136.5"
+           width="5"
+           height="143"
+           rx="0"
+           ry="0"
+           id="rect121" />
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="140.5"
+           y="113.5"
+           width="5"
+           height="166"
+           rx="0"
+           ry="0"
+           id="rect123" />
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="198.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect125" />
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="256.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect127" />
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="315.5"
+           y="141.5"
+           width="5"
+           height="138"
+           rx="0"
+           ry="0"
+           id="rect129" />
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="373.5"
+           y="111.5"
+           width="5"
+           height="168"
+           rx="0"
+           ry="0"
+           id="rect131" />
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="431.5"
+           y="93.5"
+           width="5"
+           height="186"
+           rx="0"
+           ry="0"
+           id="rect133" />
+        <rect
+           style="fill:#dddf00;stroke:#ffffff;stroke-width:1"
+           x="490.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect135" />
+      </g>
+      <g
+         style="visibility:visible"
+         class="highcharts-markers"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="none"
+         id="g137" />
+      <g
+         style="visibility:visible"
+         class="highcharts-series"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="url(#highcharts-93)"
+         id="g139">
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="29.5"
+           y="124.5"
+           width="5"
+           height="155"
+           rx="0"
+           ry="0"
+           id="rect141" />
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="87.5"
+           y="141.5"
+           width="5"
+           height="138"
+           rx="0"
+           ry="0"
+           id="rect143" />
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="145.5"
+           y="131.5"
+           width="5"
+           height="148"
+           rx="0"
+           ry="0"
+           id="rect145" />
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="204.5"
+           y="101.5"
+           width="5"
+           height="178"
+           rx="0"
+           ry="0"
+           id="rect147" />
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="262.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect149" />
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="320.5"
+           y="129.5"
+           width="5"
+           height="150"
+           rx="0"
+           ry="0"
+           id="rect151" />
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="379.5"
+           y="128.5"
+           width="5"
+           height="151"
+           rx="0"
+           ry="0"
+           id="rect153" />
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="437.5"
+           y="140.5"
+           width="5"
+           height="139"
+           rx="0"
+           ry="0"
+           id="rect155" />
+        <rect
+           style="fill:#24cbe5;stroke:#ffffff;stroke-width:1"
+           x="495.5"
+           y="170.5"
+           width="5"
+           height="109"
+           rx="0"
+           ry="0"
+           id="rect157" />
+      </g>
+      <g
+         style="visibility:visible"
+         class="highcharts-markers"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="none"
+         id="g159" />
+      <g
+         style="visibility:visible"
+         class="highcharts-series"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="url(#highcharts-93)"
+         id="g161">
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="35.5"
+           y="141.5"
+           width="5"
+           height="138"
+           rx="0"
+           ry="0"
+           id="rect163" />
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="93.5"
+           y="141.5"
+           width="5"
+           height="138"
+           rx="0"
+           ry="0"
+           id="rect165" />
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="151.5"
+           y="25.5"
+           width="5"
+           height="254"
+           rx="0"
+           ry="0"
+           id="rect167" />
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="210.5"
+           y="154.5"
+           width="5"
+           height="125"
+           rx="0"
+           ry="0"
+           id="rect169" />
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="268.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect171" />
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="326.5"
+           y="139.5"
+           width="5"
+           height="140"
+           rx="0"
+           ry="0"
+           id="rect173" />
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="385.5"
+           y="130.5"
+           width="5"
+           height="149"
+           rx="0"
+           ry="0"
+           id="rect175" />
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="443.5"
+           y="206.5"
+           width="5"
+           height="73"
+           rx="0"
+           ry="0"
+           id="rect177" />
+        <rect
+           style="fill:#64e572;stroke:#ffffff;stroke-width:1"
+           x="501.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect179" />
+      </g>
+      <g
+         style="visibility:visible"
+         class="highcharts-markers"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="none"
+         id="g181" />
+      <g
+         style="visibility:visible"
+         class="highcharts-series"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="url(#highcharts-93)"
+         id="g183">
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="40.5"
+           y="144.5"
+           width="5"
+           height="135"
+           rx="0"
+           ry="0"
+           id="rect185" />
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="99.5"
+           y="146.5"
+           width="5"
+           height="133"
+           rx="0"
+           ry="0"
+           id="rect187" />
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="157.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect189" />
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="215.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect191" />
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="274.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect193" />
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="332.5"
+           y="133.5"
+           width="5"
+           height="146"
+           rx="0"
+           ry="0"
+           id="rect195" />
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="390.5"
+           y="139.5"
+           width="5"
+           height="140"
+           rx="0"
+           ry="0"
+           id="rect197" />
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="449.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect199" />
+        <rect
+           style="fill:#ff9655;stroke:#ffffff;stroke-width:1"
+           x="507.5"
+           y="279.5"
+           width="5"
+           height="0"
+           rx="0"
+           ry="0"
+           id="rect201" />
+      </g>
+      <g
+         style="visibility:visible"
+         class="highcharts-markers"
+         visibility="visible"
+         transform="translate(65,36)"
+         clip-path="none"
+         id="g203" />
+    </g>
+    <text
+       x="338.55887"
+       class="highcharts-title"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';text-transform:none;text-anchor:middle;fill:#000000"
+       y="586.05487"
+       id="text205">
+      <tspan
+         id="tspan207"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold'">Accuracy using different pattern sizes - 1 minute</tspan>
+    </text>
+    <text
+       x="87.558846"
+       style="color:#333333;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:start;fill:#333333"
+       y="940.05487"
+       id="text553">
+      <tspan
+         id="tspan555"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium'">Pattern size 1</tspan>
+    </text>
+    <rect
+       x="66.558846"
+       y="929.05487"
+       width="16"
+       height="12"
+       id="rect557"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#50b432" />
+    <text
+       x="201.93384"
+       y="940.05487"
+       style="color:#333333;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:start;fill:#333333"
+       id="text561">
+      <tspan
+         id="tspan563"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium'">Pattern size 2</tspan>
+    </text>
+    <rect
+       x="180.93384"
+       y="929.05487"
+       width="16"
+       height="12"
+       id="rect565"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#ed561b" />
+    <text
+       x="316.30887"
+       y="940.05487"
+       style="color:#333333;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:start;fill:#333333"
+       id="text569">
+      <tspan
+         id="tspan571"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium'">Pattern size 3</tspan>
+    </text>
+    <rect
+       x="295.30884"
+       y="929.05487"
+       width="16"
+       height="12"
+       id="rect573"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#dddf00" />
+    <text
+       x="430.6839"
+       y="940.05487"
+       style="color:#333333;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:start;fill:#333333"
+       id="text577">
+      <tspan
+         id="tspan579"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium'">Pattern size 4</tspan>
+    </text>
+    <rect
+       x="409.6839"
+       y="929.05487"
+       width="16"
+       height="12"
+       id="rect581"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#24cbe5" />
+    <text
+       x="545.05884"
+       y="940.05487"
+       style="color:#333333;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:start;fill:#333333"
+       id="text585">
+      <tspan
+         id="tspan587"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium'">Pattern size 5</tspan>
+    </text>
+    <rect
+       x="524.05884"
+       y="929.05487"
+       width="16"
+       height="12"
+       id="rect589"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#64e572" />
+    <text
+       x="87.558846"
+       y="954.05487"
+       style="color:#333333;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:start;fill:#333333"
+       id="text593">
+      <tspan
+         id="tspan595"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium'">Pattern size 6</tspan>
+    </text>
+    <rect
+       x="66.558846"
+       y="943.05487"
+       width="16"
+       height="12"
+       id="rect597"
+       style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;fill:#ff9655" />
+    <text
+       id="text601"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="132.72551">Heatmap</text>
+    <text
+       id="text603"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="191.05884">WDif1</text>
+    <text
+       id="text605"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="249.39215">WDif2</text>
+    <text
+       id="text607"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="307.72552">WDif3</text>
+    <text
+       id="text609"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="366.0589">WDif4</text>
+    <text
+       id="text611"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="424.39224">WAvg1</text>
+    <text
+       id="text613"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="482.72556">WAvg2</text>
+    <text
+       id="text615"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="541.05884">WAvg3</text>
+    <text
+       id="text617"
+       y="902.05487"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-transform:none;text-anchor:middle;opacity:1;fill:#000000"
+       x="599.39215">WAvg4</text>
+    <text
+       id="text621"
+       y="888.55487"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';text-transform:none;text-anchor:end;opacity:1;fill:#000000"
+       x="88.558846">0</text>
+    <text
+       id="text623"
+       y="609.55487"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';text-transform:none;text-anchor:end;opacity:1;fill:#000000"
+       x="88.558846">1</text>
+    <text
+       id="text625"
+       y="818.80487"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';text-transform:none;text-anchor:end;opacity:1;fill:#000000"
+       x="88.558846">0.25</text>
+    <text
+       id="text627"
+       y="749.05487"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';text-transform:none;text-anchor:end;opacity:1;fill:#000000"
+       x="88.558846">0.5</text>
+    <text
+       id="text629"
+       y="679.30487"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';text-transform:none;text-anchor:end;opacity:1;fill:#000000"
+       x="88.558846">0.75</text>
+  </g>
+</svg>
